@@ -8,7 +8,9 @@
 사용자 경험을 최우선으로 고려하며, 지속 가능한 기술에도 관심이 많습니다.  
 더 나은 서비스를 제공하기 위해 협업하며, 기술적 팔로우십을 높여가겠습니다.
 
+
 ---
+
 
 ## 🛠️ Tech Stacks  
 ### 🔹 Languages  
@@ -28,17 +30,19 @@
     <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=Linux&logoColor=white">
 </p>
 
+
 ---
+
 
 ## 📊 GitHub Stats  
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=moonyaejin&show_icons=true&theme=transparent&hide_border=true" width="48%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonyaejin&layout=compact&hide=css,html&langs_count=6&theme=transparent&hide_border=true" width="48%">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonyaejin&theme=transparent" width="48%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonyaejin&theme=transparent&hide_border=true" width="48%">
 </div>
 
+
 ---
+
 
 ## 🏆 Algorithm  
 <p align="left">
@@ -46,7 +50,9 @@
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xaexix">
 </p>
 
+
 ---
+
 
 ## 🧑‍💻 Contact Me  
 <p align="left">
