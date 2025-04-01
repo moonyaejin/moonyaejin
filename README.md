@@ -45,7 +45,7 @@
 
 ## 🧑‍💻 Contact Me  
 <p align="left">
-    <a href="YOUR_NOTION_LINK">
+    <a href="https://www.notion.so/xaexix/1c743eff7a4f807dbf34e5507138df79?pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
     <a href="mailto:i0209i80@gmail.com">
