@@ -29,30 +29,21 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=Linux&logoColor=white">
 </p>
-
-
----
-
+<br>
 
 ## 📊 GitHub Stats  
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonyaejin&layout=compact&hide=css,html&langs_count=6&theme=transparent&hide_border=true" width="48%">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonyaejin&theme=transparent" width="48%">
 </div>
-
-
----
-
+<br>
 
 ## 🏆 Algorithm  
 <p align="left">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=xaexix"><br>
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xaexix">
 </p>
-
-
----
-
+<br>
 
 ## 🧑‍💻 Contact Me  
 <p align="left">
