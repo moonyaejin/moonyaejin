@@ -36,12 +36,12 @@
 </div>
 <br>
 
-//## 🏆 Algorithm  
-//<p align="left">
-//    <img src="http://mazassumnida.wtf/api/generate_badge?boj=xaexix"><br>
-//    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xaexix">
-//</p>
-//<br>
+## 🏆 Algorithm  
+<p align="left">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=xaexix"><br>
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xaexix">
+</p>
+<br>
 
 ## 🧑‍💻 Contact Me  
 <p align="left">
