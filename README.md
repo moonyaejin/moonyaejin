@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
 
