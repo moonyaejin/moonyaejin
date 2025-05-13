@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonyaejin&layout=compact&hide=css,html&langs_count=6&theme=default&bg_color=ffffff&title_color=1E3A5F&text_color=333333&icon_color=1E3A5F" width="48%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moonyaejin&show_icons=true&theme=default&bg_color=ffffff&title_color=1E3A5F&text_color=333333&icon_color=1E3A5F" width="48%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=moonyaejin&show_icons=true&theme=default&bg_color=ffffff&title_color=1E3A5F&text_color=333333&icon_color=1E3A5F" width="48%">
 </div>
 <br clear="left">
 
