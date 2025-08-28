@@ -1,21 +1,14 @@
 ## ⚙️ Tech Stacks
 
-### 🔹 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-1E3A5F?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
-</p>
-
-### 🔹 Backend & Server
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-1E3A5F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-</p>
-
-### 🔹 DevOps & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white"/>
@@ -23,9 +16,6 @@
   <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=Linux&logoColor=white"/>
-</p>
-
-### 🔹 Tools & Collaboration
 <p align="left">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
