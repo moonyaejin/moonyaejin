@@ -12,7 +12,11 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge"/>
+</p>
 <br>
 
 ## 📊 GitHub Stats
