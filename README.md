@@ -56,11 +56,15 @@
 
 <div align="center">
 
-<!-- 프로그래머스 뱃지 (설정 후 주석 해제) -->
-<!-- ![Programmers Badge](https://raw.githubusercontent.com/moonyaejin/Programmers_Badge_Generator/main/result/result.svg) -->
+![BOJ](https://img.shields.io/badge/BOJ-solved.ac-1E90FF?style=flat-square)
 
-<!-- 백준 -->
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=xaexix" width="40%"/>
+
+<br><br>
+
+![Programmers](https://img.shields.io/badge/Programmers-7B68EE?style=flat-square)
+
+![Programmers Badge](https://raw.githubusercontent.com/moonyaejin/Programmers_Badge_Generator/main/result/result.svg)
 
 </div>
 
