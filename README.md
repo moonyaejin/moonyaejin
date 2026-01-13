@@ -45,10 +45,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonyaejin&theme=default" width="95%"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moonyaejin&theme=github-light&color=1E90FF&line=1E90FF&point=FF6347&hide_border=true" width="95%"/>
-
 </div>
 ---
 
@@ -73,8 +69,10 @@
 ## 📫 Contact Me
 
 <div align="center">
-  
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/xaexix/1c743eff7a4f807dbf34e5507138df79?pvs=4)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.moonyaejin.site/)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/xaexix/1c743eff7a4f807dbf34e5507138df79?pvs=4)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xaexix/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i0209i80@gmail.com)
 
 </div>
